@@ -22,7 +22,7 @@
 	<logstash-logback-encoder.version>6.1</logstash-logback-encoder.version>
 	<sonar.host.url>http://13.49.246.233:9000/</sonar.host.url>
 	<sonar.login>admin</sonar.login>
-	<sonar.password>Shiloh1986</sonar.password> 
+	<sonar.password>admin</sonar.password> 
     </properties>
 
     <dependencies>
