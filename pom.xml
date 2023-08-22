@@ -175,13 +175,13 @@
     	     <repository>
 	         <id>nexus</id>
 	         <name>Technologies Releases Nexus Repository</name>
-	         <url>http://16.171.146.253:8081/repository/wilsrelease-repo/</url>
+	         <url>http://16.171.26.34:8081/repository/group-projectb-release/</url>
 	     </repository>
 	    
 	     <snapshotRepository>
 	         <id>nexus</id>
 	         <name>Technologies Snapshot Nexus Repository </name>
-	         <url>http://16.171.146.253:8081/repository/willssnapshot-repo/</url>
+	         <url>http://16.171.26.34:8081/repository/group-projectb-snapshot/</url>
 	     </snapshotRepository>
     	</distributionManagement>
 
